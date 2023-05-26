@@ -31,7 +31,7 @@ Some common parameters such as lift and moment coefficients are seen in the main
 
 For example:
 
-![Program Image #3](https://i.ibb.co/8P5HNjQ/3.png)
+![image](https://github.com/LaFleur93/Panel-Method-A-Basic-Application-for-Hand-Drawn-Airfoils/assets/74310745/8142a7d5-34f9-4ac5-a315-2b3950cde713)
 
 <h2>References</h3>
 This program uses the Source and Vortex Panel Method which can be found in John D. Anderson's Fundamentals of Aerodynamics.
